@@ -19,7 +19,7 @@
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone [https://github.com/srinathguna/Day5-Task.git]
+   git clone [https://github.com/srinathguna/Day6-OOPS.git]
    ```
 
 2. Navigate to the project directory.
