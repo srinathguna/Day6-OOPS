@@ -36,9 +36,7 @@ Run the each 4 files separate to view the output
 3. Run each js file > choose inspect > choose console tab - output of respected questions
 
 ## Output Screen shots
-
-
-
+![Screenshot 2024-03-08 011932](https://github.com/srinathguna/Day6-OOPS/assets/5001355/4e76e678-b47a-4c9c-b19f-3df7fcf5e645)
 
 
 
